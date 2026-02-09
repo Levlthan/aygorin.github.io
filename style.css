@@ -5,15 +5,19 @@
   --terracota:#DDAE9E;
   --burdeos:#8C3F45;
   --oro:#C9A66B;
+  --rosa:#F7B6C8;
 }
 
-*{box-sizing:border-box}
+*{ box-sizing:border-box }
+
 body{
   margin:0;
   font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
   background: var(--bg);
   color: var(--text);
 }
+
+/* CONTENEDOR PRINCIPAL */
 .wrap{
   max-width: 720px;
   margin: 0 auto;
@@ -23,42 +27,73 @@ body{
   flex-direction:column;
   gap:18px;
 }
+
+/* CABECERA */
 .top h1{
   margin:0;
   letter-spacing:.2px;
+  font-size: 32px;
 }
 .sub{
   margin:6px 0 0;
   color: rgba(43,38,38,.7);
 }
+
+/* TARJETA */
 .card{
   background: var(--card);
   border: 1px solid rgba(0,0,0,.06);
   border-radius: 18px;
-  padding: 18px 16px;
+  padding: 18px 16px 16px;
   box-shadow: 0 12px 30px rgba(0,0,0,.06);
 }
+
+/* FECHA */
 .meta{
   font-size: 14px;
   color: rgba(43,38,38,.7);
   margin-bottom: 10px;
 }
+
+/* TEXTO PRINCIPAL */
 .text{
   font-size: 24px;
   line-height: 1.35;
 }
+
+/* FOOTER DENTRO DE LA TARJETA */
 .foot{
-  margin-top:auto;
+  margin-top: 16px;
   display:flex;
   align-items:center;
   gap:10px;
   color: rgba(43,38,38,.65);
   font-size: 14px;
 }
+
 .dot{
   width:10px;
   height:10px;
   border-radius:999px;
   background: var(--burdeos);
   box-shadow: 0 0 0 4px rgba(140,63,69,.12);
+}
+
+.mini-counter{
+  font-size:13px;
+  white-space:nowrap;
+  font-variant-numeric: tabular-nums;
+}
+
+/* CORAZÓN DECORATIVO */
+.valentine-heart{
+  margin-top: 10px;
+  padding: 0 16px;
+  text-align: right;
+  transform: translateX(-18px);
+  font-size: 34px;
+  color: var(--rosa);
+  opacity: .9;
+  line-height: 1;
+  user-select: none;
 }
