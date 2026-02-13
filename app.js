@@ -1,13 +1,7 @@
 // 🔹 Frases de la semana (se van acumulando día a día)
 const weeklyMessages = [
-  "Hoy hace casi 1 año desde que salimos, quiero que sepas que te quiero muchisimo y que eres muy importante para mi, te quiero mi vida."];
-//  "Hola preciosa, mañana aniversario que chuli no?",
-//  "AAAAAA ya un año de novios que guay reina, te quiero💕",
-//  "Como va el Martes? Preciosa",
-//  "Sabes que es mas bonico que tu? Nada",
-//  "Te amo 💕",
-//  "Es viernes, quedamos sabado o domingo? Me dices"
-
+  "Hoy hace casi 1 año desde que salimos, quiero que sepas que te quiero muchisimo y que eres muy importante para mi, te quiero mi vida"
+];
 
 // 🔹 Fecha y hora de inicio (hora local)
 const since = "2025-02-16T23:35:00"; // YYYY-MM-DDTHH:MM:SS
@@ -90,5 +84,6 @@ document.addEventListener("DOMContentLoaded", () => {
   setInterval(renderCounter, 1000); // contador en tiempo real
   setInterval(renderText, 60000);   // refresca fecha/frase cada minuto
 });
+
 
 
