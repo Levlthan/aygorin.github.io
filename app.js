@@ -1,6 +1,6 @@
 // 🔹 Frases de la semana (se van acumulando día a día)
 const weeklyMessages = [
-  "Hoy hace casi 1 año desde que salimos, quiero que sepas que te quiero muchisimo y que eres muy importante para mi, te quiero mi vida"
+  "Mañana aniversario que guay"
 ];
 
 // 🔹 Fecha y hora de inicio (hora local)
@@ -84,6 +84,7 @@ document.addEventListener("DOMContentLoaded", () => {
   setInterval(renderCounter, 1000); // contador en tiempo real
   setInterval(renderText, 60000);   // refresca fecha/frase cada minuto
 });
+
 
 
 
