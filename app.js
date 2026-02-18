@@ -1,6 +1,6 @@
 // 🔹 Frases de la semana (se van acumulando día a día)
 const weeklyMessages = [
-  "Disfruta tu ultimo frstivo semanal que tocara empezar la tortura otra vez, te quiero preciosa"
+  "Feliz Jueves!!, como esta mi niña? Bien? me alegro pasa un buen dis preciosa. Te amo"
 ];
 
 // 🔹 Fecha y hora de inicio (hora local)
@@ -84,6 +84,7 @@ document.addEventListener("DOMContentLoaded", () => {
   setInterval(renderCounter, 1000); // contador en tiempo real
   setInterval(renderText, 60000);   // refresca fecha/frase cada minuto
 });
+
 
 
 
