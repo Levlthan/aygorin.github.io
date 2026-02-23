@@ -1,6 +1,6 @@
 // 🔹 Frases de la semana (se van acumulando día a día)
 const weeklyMessages = [
-  "Woolaaaa, sabadito de quedadita primerl comidita y luego a tu casita wowo"
+  "Hoy te toca un dia duro y largo preciosa, seguro que tu puedes. Animo!!! Te quiero, ayer se me paso milperdones"
 ];
 
 // 🔹 Fecha y hora de inicio (hora local)
@@ -84,6 +84,7 @@ document.addEventListener("DOMContentLoaded", () => {
   setInterval(renderCounter, 1000); // contador en tiempo real
   setInterval(renderText, 60000);   // refresca fecha/frase cada minuto
 });
+
 
 
 
