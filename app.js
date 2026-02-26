@@ -1,6 +1,6 @@
 // 🔹 Frases de la semana (se van acumulando día a día)
 const weeklyMessages = [
-  "como va el dia? espero que bien preciosa, te veo hoy en algun momento o ya mañana? te quiero"
+  "hoy dormimos juntitos k guay, recuerda que te llevo el reloj"
 ];
 
 // 🔹 Fecha y hora de inicio (hora local)
@@ -84,6 +84,7 @@ document.addEventListener("DOMContentLoaded", () => {
   setInterval(renderCounter, 1000); // contador en tiempo real
   setInterval(renderText, 60000);   // refresca fecha/frase cada minuto
 });
+
 
 
 
