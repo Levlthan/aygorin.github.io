@@ -1,6 +1,6 @@
 // 🔹 Frases de la semana (se van acumulando día a día)
 const weeklyMessages = [
-  "Es VIERNES si sisi, espero que tengas un buen dia preciosa"
+  "Lunes de chill, lado negativo es lunes, positivo que es 2 de marzo. Que tengas un buen dia preciosa"
 ];
 
 // 🔹 Fecha y hora de inicio (hora local)
@@ -84,6 +84,7 @@ document.addEventListener("DOMContentLoaded", () => {
   setInterval(renderCounter, 1000); // contador en tiempo real
   setInterval(renderText, 60000);   // refresca fecha/frase cada minuto
 });
+
 
 
 
