@@ -21,11 +21,11 @@ body{
 .wrap{
   max-width: 720px;
   margin: 0 auto;
-  padding: 28px 16px 44px;
+  padding: 28px 16px 60px;
   min-height: 100vh;
   display:flex;
   flex-direction:column;
-  gap:18px;
+  gap:22px;
 }
 
 /* CABECERA */
@@ -34,6 +34,7 @@ body{
   letter-spacing:.2px;
   font-size: 32px;
 }
+
 .sub{
   margin:6px 0 0;
   color: rgba(43,38,38,.7);
@@ -87,7 +88,7 @@ body{
 
 /* CORAZÓN DECORATIVO */
 .valentine-heart{
-  margin-top: 10px;
+  margin-top: 6px;
   padding: 0 16px;
   text-align: right;
   transform: translateX(-18px);
@@ -96,4 +97,61 @@ body{
   opacity: .9;
   line-height: 1;
   user-select: none;
+}
+
+/* ==========================
+   SECCIÓN RESPUESTA
+========================== */
+
+.reply{
+  background: var(--card);
+  border: 1px solid rgba(0,0,0,.06);
+  border-radius: 18px;
+  padding: 18px 16px;
+  box-shadow: 0 12px 30px rgba(0,0,0,.04);
+  display:flex;
+  flex-direction:column;
+  gap:14px;
+}
+
+.reply h2{
+  margin:0;
+  font-size:20px;
+  font-weight:600;
+}
+
+.reply textarea{
+  width:100%;
+  min-height:120px;
+  padding:12px;
+  border-radius:14px;
+  border:1px solid rgba(0,0,0,.1);
+  font-family:inherit;
+  resize:none;
+  font-size:14px;
+  background:white;
+  outline:none;
+  transition: .2s ease;
+}
+
+.reply textarea:focus{
+  border-color: var(--burdeos);
+  box-shadow: 0 0 0 3px rgba(140,63,69,.15);
+}
+
+.reply button{
+  align-self:flex-start;
+  padding:8px 18px;
+  border:none;
+  border-radius:999px;
+  background: var(--burdeos);
+  color:white;
+  cursor:pointer;
+  font-size:14px;
+  transition:.2s ease;
+}
+
+.reply button:hover{
+  opacity:.85;
+  transform: translateY(-1px);
 }
