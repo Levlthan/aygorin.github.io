@@ -1,6 +1,6 @@
 // 🔹 Frases de la semana (se van acumulando día a día)
 const weeklyMessages = [
-  "Me he dormido durisimo, bueno podra ser peor. Como te va preciosa?"
+  "Hey hey pequeña no digas eso... JAJAJJAA Como van las opos?"
 ];
 
 // 🔹 Fecha y hora de inicio (hora local)
@@ -84,6 +84,7 @@ document.addEventListener("DOMContentLoaded", () => {
   setInterval(renderCounter, 1000); // contador en tiempo real
   setInterval(renderText, 60000);   // refresca fecha/frase cada minuto
 });
+
 
 
 
