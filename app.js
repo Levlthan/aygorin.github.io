@@ -1,6 +1,6 @@
 // 🔹 Frases de la semana (se van acumulando día a día)
 const weeklyMessages = [
-  "Lunesito de cojito, vaya dia para joderme el cuello loco. Que vaya bien guapa. Comes en casa no?"
+  "Martessito 10, a un dia que chulo. Te quiero muxo mi life"
 ];
 
 // 🔹 Fecha y hora de inicio (hora local)
@@ -84,6 +84,7 @@ document.addEventListener("DOMContentLoaded", () => {
   setInterval(renderCounter, 1000); // contador en tiempo real
   setInterval(renderText, 60000);   // refresca fecha/frase cada minuto
 });
+
 
 
 
