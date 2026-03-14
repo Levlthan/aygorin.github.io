@@ -1,6 +1,6 @@
 // 🔹 Frases de la semana (se van acumulando día a día)
 const weeklyMessages = [
-  "ES VIERNEES y encima puente es loco. Que vaya bie nel dia te quiero"
+  "Casinito a ganar dinerito gugu. Te amo loquita"
 ];
 
 // 🔹 Fecha y hora de inicio (hora local)
