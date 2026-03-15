@@ -1,6 +1,6 @@
 // 🔹 Frases de la semana (se van acumulando día a día)
 const weeklyMessages = [
-  "Casinito a ganar dinerito gugu. Te amo loquita"
+  "holaaaaa, como van las correciones? guapaaaa"
 ];
 
 // 🔹 Fecha y hora de inicio (hora local)
