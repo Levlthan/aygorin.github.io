@@ -1,6 +1,6 @@
 // 🔹 Frases de la semana (se van acumulando día a día)
 const weeklyMessages = [
-  "Wenas me duelen las patas mucho, como vas? "
+  "me quedo en casita today con deberes, como va el dia preciosa?"
 ];
 
 // 🔹 Fecha y hora de inicio (hora local)
