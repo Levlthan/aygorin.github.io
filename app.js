@@ -1,6 +1,6 @@
 // 🔹 Frases de la semana (se van acumulando día a día)
 const weeklyMessages = [
-  "miercolessito de holiwis como vas? no te he vsito alfinal sad"
+  "lueixon de no claseixon, de estudeixon y ver perliculeixon"
 ];
 
 // 🔹 Fecha y hora de inicio (hora local)
