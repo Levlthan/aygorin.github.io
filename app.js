@@ -1,6 +1,6 @@
 // 🔹 Frases de la semana (se van acumulando día a día)
 const weeklyMessages = [
-  "lueixon de no claseixon, de estudeixon y ver perliculeixon"
+  "Martes con clase que duro non, y tu a tlabaja tiene que tlabaja"
 ];
 
 // 🔹 Fecha y hora de inicio (hora local)
