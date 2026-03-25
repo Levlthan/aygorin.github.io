@@ -1,6 +1,6 @@
 // 🔹 Frases de la semana (se van acumulando día a día)
 const weeklyMessages = [
-  "Martes con clase que duro non, y tu a tlabaja tiene que tlabaja"
+  "Miercoles de SanQuinti Ultimo dia , que vaya biek guapetona"
 ];
 
 // 🔹 Fecha y hora de inicio (hora local)
