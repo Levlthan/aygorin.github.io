@@ -1,6 +1,6 @@
 // 🔹 Frases de la semana (se van acumulando día a día)
 const weeklyMessages = [
-  "Miercoles de SanQuinti Ultimo dia , que vaya biek guapetona"
+  "FELIZ JUEVESSSS, como va el dia preciosa?"
 ];
 
 // 🔹 Fecha y hora de inicio (hora local)
