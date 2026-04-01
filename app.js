@@ -1,6 +1,6 @@
 // 🔹 Frases de la semana (se van acumulando día a día)
 const weeklyMessages = [
-  "Como estas? Ya empiza semana santa que guay no?"
+  "Miercolesito de Mariesito Te quiero preciosaaa"
 ];
 
 // 🔹 Fecha y hora de inicio (hora local)
