@@ -1,6 +1,6 @@
 // 🔹 Frases de la semana (se van acumulando día a día)
 const weeklyMessages = [
-  "Miercolesito de Mariesito Te quiero preciosaaa"
+  "jueves de madrugar vaya puteixon"
 ];
 
 // 🔹 Fecha y hora de inicio (hora local)
