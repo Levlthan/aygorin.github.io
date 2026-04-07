@@ -1,7 +1,7 @@
 // 🔹 Frases de la semana (se van acumulando día a día)
 const weeklyMessages = [
   "Empieza la rutina otra vez qje palo, como va el dia guapa?",
-  "Hola miercoles corto de ir en coche a el aeropuesto duro"
+  
 ];
 
 // 🔹 Fecha y hora de inicio (hora local)
