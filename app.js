@@ -1,6 +1,6 @@
 // 🔹 Frases de la semana (se van acumulando día a día)
 const weeklyMessages = [
-  "Empieza la rutina otra vez qje palo, como va el dia guapa?",
+  "Como esta en nuevo cole? Me encuentro mal dame mimos lueho :(",
   
 ];
 
