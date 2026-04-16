@@ -1,6 +1,6 @@
 // 🔹 Frases de la semana (se van acumulando día a día)
 const weeklyMessages = [
-  "Como esta en nuevo cole? Me encuentro mal dame mimos lueho :(",
+  "Comes con tu papi y no pasare hambre eso siempre esta bien. Que vaya bien preciosa",
   
 ];
 
