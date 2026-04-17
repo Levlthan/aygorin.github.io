@@ -1,6 +1,6 @@
 // 🔹 Frases de la semana (se van acumulando día a día)
 const weeklyMessages = [
-  "Comes con tu papi y no pasare hambre eso siempre esta bien. Que vaya bien preciosa",
+  "Como va la reina de mi vida? Bien me alegro de que ahy ido bien mañana espa",
   
 ];
 
