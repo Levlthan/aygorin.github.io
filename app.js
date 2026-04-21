@@ -1,6 +1,6 @@
 // 🔹 Frases de la semana (se van acumulando día a día)
 const weeklyMessages = [
-  "Como va la reina de mi vida? Bien me alegro de que ahy ido bien mañana espa",
+  "Bububububu te asuste? 👻 Como vas?",
   
 ];
 
