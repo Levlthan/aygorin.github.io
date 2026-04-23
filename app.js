@@ -1,6 +1,6 @@
 // 🔹 Frases de la semana (se van acumulando día a día)
 const weeklyMessages = [
-  "Bububububu te asuste? 👻 Como vas?",
+  "Feliz San Jordio Te he comprao una rosita, como va el novo cole? te quiero",
   
 ];
 
