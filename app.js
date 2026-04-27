@@ -1,6 +1,6 @@
 // 🔹 Frases de la semana (se van acumulando día a día)
 const weeklyMessages = [
-  "Feliz San Jordio Te he comprao una rosita, como va el novo cole? te quiero",
+  "Susti corta pero oye, esta lejos lejos como va el dia guapa? Tr quiero",
   
 ];
 
