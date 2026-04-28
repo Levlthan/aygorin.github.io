@@ -1,6 +1,6 @@
 // 🔹 Frases de la semana (se van acumulando día a día)
 const weeklyMessages = [
-  "Susti corta pero oye, esta lejos lejos como va el dia guapa? Tr quiero",
+  "Que palo de dia... No quiero ir a clase de Dani. Te ha gusta el novo cole?",
   
 ];
 
