@@ -1,6 +1,6 @@
 // 🔹 Frases de la semana (se van acumulando día a día)
 const weeklyMessages = [
-  "Como estas preciosa? No vuelvo a dormir al borde estas avisada jajajaj ",
+  "Sabias que estoy aburrido? Pues ahora si que tal? te quiero ",
   
 ];
 
