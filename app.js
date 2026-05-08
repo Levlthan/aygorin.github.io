@@ -1,6 +1,6 @@
 // 🔹 Frases de la semana (se van acumulando día a día)
 const weeklyMessages = [
-  "Sabias que estoy aburrido? Pues ahora si que tal? te quiero ",
+  "Yooooo men how are u? Good? Well i love u babe😘",
   
 ];
 
