@@ -1,6 +1,6 @@
 // 🔹 Frases de la semana (se van acumulando día a día)
 const weeklyMessages = [
-  "Yooo como has dormido princesa? Espero que bien. Te amo",
+  "Wooola como va tu dinero fscil? Bien? Aburrida? Arrepentida? Te quiero preciosa",
   
 ];
 
