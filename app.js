@@ -1,6 +1,6 @@
 // 🔹 Frases de la semana (se van acumulando día a día)
 const weeklyMessages = [
-  "holaaaaaa, xurros time baby. te kiero guapa",
+  "esta xemana hay mucha cosa que hacer no me agrada",
   
 ];
 
