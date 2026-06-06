@@ -1,6 +1,6 @@
 // 🔹 Frases de la semana (se van acumulando día a día)
 const weeklyMessages = [
-  "esta xemana hay mucha cosa que hacer no me agrada",
+  "Como va el segundo dia de porta aventuura mi vida? Bien, espwro que si suerte guapa",
   
 ];
 
