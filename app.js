@@ -1,6 +1,6 @@
 // 🔹 Frases de la semana (se van acumulando día a día)
 const weeklyMessages = [
-  "Como va el segundo dia de porta aventuura mi vida? Bien, espwro que si suerte guapa",
+  "500 Dias, que burrada no chikilla? Te amo muchisimo mi vida <3",
   
 ];
 
