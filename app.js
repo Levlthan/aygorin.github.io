@@ -1,6 +1,6 @@
 // 🔹 Frases de la semana (se van acumulando día a día)
 const weeklyMessages = [
-  "500 Dias, que burrada no chikilla? Te amo muchisimo mi vida <3",
+  "No want to work, :d sad. Como ha ido la salsa guapa?",
   
 ];
 
