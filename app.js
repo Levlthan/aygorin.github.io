@@ -1,6 +1,6 @@
 // 🔹 Frases de la semana (se van acumulando día a día)
 const weeklyMessages = [
-  "No want to work, :d sad. Como ha ido la salsa guapa?",
+  "La mejor del mundo preciosa, te quiero mucho. Que vaya bien la playa,
   
 ];
 
